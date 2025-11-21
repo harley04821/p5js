@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# run live server
+
+npx live-server --port=8080 
+
